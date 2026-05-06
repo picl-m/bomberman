@@ -1,4 +1,4 @@
-# Bomberman game in c++
+# Bomberman game in c++ (2021)
 ## Description
 A 2D bomberman game made with C++ and SFML library.
 ## Gameplay
